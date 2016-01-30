@@ -1,5 +1,7 @@
 hello-world
 ===========
 
-Jonathan's first repository on GitHub.
+Jon's first repo on GitHub.
 I'm working on GitHub!
+
+YES
